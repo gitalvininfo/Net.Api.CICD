@@ -26,7 +26,7 @@ The following assumes that you have already installed this on your local machine
 
 Open your terminal and run the following command to clone the repository.
 
-    git clone https://github.com/alvinyanson/K8S.FormulaOneMicroservice.git
+    git clone https://github.com/alvinyanson/Net.WebApi.CICD.git
 
 
 After cloning, open the **appSettings.Development.json** file and update the connection string to your own. For reference, this is my connection string. Leave the Initial Catalog value as default **'F1.DriversDB'**.
