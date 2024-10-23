@@ -390,3 +390,8 @@ Confirm that our changes have been successfully applied.
 
 
 ### With this, we can be confident that the CI/CD process is functioning correctly in our project.
+
+
+We could also consider some option to move forward from here, such as securing production connection strings with Azure Key Vault.
+
+    https://learn.microsoft.com/en-us/azure/service-connector/tutorial-portal-key-vault?tabs=connectionstring
