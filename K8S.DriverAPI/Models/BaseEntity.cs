@@ -9,6 +9,6 @@ namespace K8S.DriverAPI.Models
 
         public DateTime UpdatedDate { get; set; } = DateTime.UtcNow;
 
-        public int Status { get; set; }
+        public int Status { get; set; } = 1;
     }
 }
